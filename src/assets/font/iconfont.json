@@ -1,0 +1,93 @@
+{
+  "id": "1430331",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "772855",
+      "name": "信封1",
+      "font_class": "xinfeng1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "936755",
+      "name": "信号1",
+      "font_class": "xinhao1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "2119427",
+      "name": "声音",
+      "font_class": "volume_icon",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "3117251",
+      "name": "闹钟",
+      "font_class": "00FE",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3141341",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "3280602",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "3783074",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7156227",
+      "name": "i",
+      "font_class": "i",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "9649635",
+      "name": "纸飞机",
+      "font_class": "zhifeiji-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10431317",
+      "name": "纸飞机",
+      "font_class": "zhifeiji",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10550058",
+      "name": "羽毛",
+      "font_class": "yumao",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "11115249",
+      "name": "电  话",
+      "font_class": "dianhua1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}
