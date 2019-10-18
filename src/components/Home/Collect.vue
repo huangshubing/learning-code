@@ -7,7 +7,6 @@
       <CollectItem v-for="(item,index) in data" :key="index" :data="item">
         <img slot="img" :src="item.img" alt />
       </CollectItem>
-
       <li class="cli1 fl">
         <a href="#">
           <div class="content_box">
@@ -52,7 +51,6 @@
           </div>
         </a>
       </li>
-
       <li class="cli1 fl">
         <a href="#">
           <div class="content_box">
